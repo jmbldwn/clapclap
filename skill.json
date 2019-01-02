@@ -1,0 +1,70 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "my smart home",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": ["never mind"]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": ["help"]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": ["thank you"]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "clapclap",
+                    "slots": [],
+                    "samples": [
+                        "turn the device off",
+                        "turn the device on",
+                        "turn off",
+                        "turn on",
+                        "turn the light off",
+                        "turn the light on",
+                        "flip the light",
+                        "flip the device",
+                        "flip the light on",
+                        "flip the light off",
+                        "flip the device on",
+                        "flip the device off"
+                    ]
+                },
+                {
+                    "name": "clapclapclap",
+                    "slots": [],
+                    "samples": [
+                        "turn the alternate light off",
+                        "turn the alternate light on",
+                        "turn the alternate device off",
+                        "turn the alternate device on",
+                        "flip the alternate light",
+                        "flip the alternate light on",
+                        "flip the alternate light off",
+                        "flip the alternate device",
+                        "flip the alternate device on",
+                        "flip the alternate device off",
+                        "turn the other light off",
+                        "turn the other light on",
+                        "turn the other device off",
+                        "turn the other device on",
+                        "flip the other light",
+                        "flip the other device",
+                        "flip the other light on",
+                        "flip the other light off",
+                        "flip the other device on",
+                        "flip the other device off"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
