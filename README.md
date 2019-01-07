@@ -1,6 +1,12 @@
 # clapclap
 Alexa Skill for Integrating with The Clapper™
 
+I built this skill as a test for myself.  The skill is available for your Alexa at:  
+
+https://www.amazon.com/gp/product/B07M9JHVV1?pf_rd_p=c2945051-950f-485c-b4df-15aac5223b10&pf_rd_r=JHBQ8QQM1J3KHM5SD8EX
+
+You can read my Medium blog post about this skill at https://medium.com/@jmbldwn/old-is-new-941db23d3a64
+
 ## skill.json
 The alexa skill definition
 
